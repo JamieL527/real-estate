@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import React from 'react';
-import heroBg from '../assets/images/background.JPG';
+import heroBg from '../assets/images/background.jpg';
 import arrowIcon from '../assets/icons/arrow.png';
 import phoneIcon from '../assets/icons/contact.png';
 import mailIcon from '../assets/icons/mail.png';
